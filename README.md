@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subham Lohar</h1>
 <h3 align="center">A passionate Full-Stack .NET developer from India.</h3>
+<img align="middle" alt="Coding" width="700" src="https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad5657011ec6b7f6844cd73c6b56f/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f77656273697465312e676966">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
