@@ -1,7 +1,7 @@
 
 <img align="middle" alt="Coding" width="1000" src="https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad5657011ec6b7f6844cd73c6b56f/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f77656273697465312e676966">
 <br>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhamlohar" alt="subhamlohar" /></a> </p>
 <h5 align="left">Hi 👋, I'm Subham Lohar.<br>A passionate Full-Stack .NET developer from India.</h5>
 <br>
 
